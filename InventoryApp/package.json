@@ -1,0 +1,22 @@
+{
+  "name": "inventoryapp",
+  "version": "1.0.0",
+  "description": "this is a product designed to maintain inventory",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "inventory",
+    "express"
+  ],
+  "author": "kiran paturi",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.6.0"
+  }
+}
