@@ -1,0 +1,22 @@
+{
+  "name": "sanjay",
+  "version": "1.0.0",
+  "description": "this is a product degined to maintain Sanjayapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodeserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanmukharaok/node.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "shanmukha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanmukharaok/node/issues"
+  },
+  "homepage": "https://github.com/shanmukharaok/node#readme"
+}

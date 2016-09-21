@@ -1,0 +1,21 @@
+{
+  "name": "sanjay",
+  "description": "this is a product degined to maintain Sanjayapp",
+  "main": "server.js",
+  "authors": [
+    "shanmukha"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular"
+  ],
+  "homepage": "angularjs",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
